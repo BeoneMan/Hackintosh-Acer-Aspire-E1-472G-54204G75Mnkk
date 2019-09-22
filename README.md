@@ -13,7 +13,7 @@ This is my complete EFI folder to be used for hackintosh on Acer E1-472g noteboo
  - GPU: Intel HD 4200
  - eGPU : Nvidia GT820M
  - RAM: 12GB DDR3 @ 1600MHz (upgradable to 16GB)
- - Storage SSD : Samsung SSD 840 Evo 120 GB
+ - Storage SSD : Samsung SSD 840 Evo 120 GB (GUID Partition Table)
  - Storage HDD: 500GB SATA @ 5400rpm (GUID Partition Table)
  - Audio: Realtek ALC282 HD Audio Controller
  - Wifi : ATheros AR956x + Bluetooth
@@ -35,23 +35,23 @@ This is my complete EFI folder to be used for hackintosh on Acer E1-472g noteboo
  - 3rd party kexts for working devices under Mac OS X 10.11.6 upto macOS Mojave 10.15.x
  
 # What Worked
-- QE/CI Graphics Of IGPU IHD 4400
-- Restart, Sleep and Shutdown
-- Wifi
-- Internal Speaker, Headphone audio and Internal Mic
-- Output Audio ALC282
-- Brightness 
-- FN + Brightness Button Up / Down
-- HDMI Output
-- HDMI Audio
-- Touchpad
-- Keyboard
-- All Port USB (USB 3.0 full speed)
-- Bluetooh (Need boot to Windows first and reboot to mac)
+- [x] QE/CI Graphics Of IGPU IHD 4400
+- [x] Restart, Sleep and Shutdown
+- [x] Wifi
+- [x] Internal Speaker, Headphone audio and Internal Mic
+- [x] Output Audio ALC282
+- [x] Brightness 
+- [x] FN + Brightness Button Up / Down
+- [x] HDMI Output
+- [x] HDMI Audio
+- [x] Touchpad
+- [x] Keyboard
+- [x] All Port USB (USB 3.0 full speed)
+- [x] Bluetooh (Need boot to Windows first and reboot to mac)
 
 # Not Worked / Bugs
-- NVIDIA GT820M (NVIDIA Optimus is not supported by Hackintosh)
-- Etc
+- [ ] NVIDIA GT820M (NVIDIA Optimus is not supported by Hackintosh)
+- [ ] Etc
 
 ### Credits
 [Apple](https://www.apple.com) | [Microsoft](https://www.microsoft.com/en-us/windows) | [Clover](https://sourceforge.net/projects/cloverefiboot) | [Acidanthera](https://github.com/acidanthera) | [Rehabman](https://github.com/RehabMan/Laptop-DSDT-Patch) | [InsanelyMac](https://www.insanelymac.com/forum), [Olarila](http://olarila.com/forum) and [OSXLatitude](https://osxlatitude.com/forums) Forum | <b>Other devs</b> who aren't mentioned.
