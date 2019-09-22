@@ -6,7 +6,7 @@ This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g 
 - Windows 10 Pro
 
 
-<img src="/img/Catalina.png?raw=true" alt="macOS Catalina" align="center">
+<img src="/IMG/Catalina.png?raw=true" alt="macOS Catalina" align="center">
 
 --------------------------------------------------------------------------------------------
 
