@@ -5,7 +5,7 @@ This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g 
 - macOS Catalina 10.15 and
 - Windows 10 Pro
 
-# Notebook Specs
+### Notebook Specs
 <img src="/IMG/E1-472g.png?raw=true" alt="Acer Aspire E1-472G" align="right">
  
  Aspire Acer E1-472g
@@ -31,12 +31,12 @@ This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g 
  - BIOS: Ver. 1.06 (Acer).
 
 
-# EFI Contains
+### EFI Contains
  - Clover Bootloader binary, config.plist, drivers for uefi, themes, etc..
  - Patched ACPI Tables (DSDT-SSDT) for Graphics, Audio, Wifi, Ethernet, Battery, etc..
  - 3rd party kexts for working devices under Mac OS X 10.11.6 upto macOS Mojave 10.15.x
  
-# What Worked
+### What Worked
 - [x] QE/CI Graphics Of IGPU IHD 4400
 - [x] Restart, Sleep and Shutdown
 - [x] Wifi
@@ -51,7 +51,7 @@ This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g 
 - [x] All Port USB (USB 3.0 full speed)
 - [x] Bluetooh (Need boot to Windows first and reboot to mac)
 
-# Not Worked / Bugs
+### Not Worked / Bugs
 - [ ] NVIDIA GT820M (NVIDIA Optimus is not supported by Hackintosh)
 - [ ] Etc
 
