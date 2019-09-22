@@ -6,6 +6,8 @@ This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g 
 - Windows 10 Pro
 
 # Notebook Specs
+<img src="/IMG/E1-472g.png?raw=true" alt="Acer Aspire E1-472G" align="right">
+ 
  Aspire Acer E1-472g
  - Model: Acer Aspire E1-472G 2013
  - CPU: Intel Core i5-4200U (4) @ 2.30GHz (4nd Gen)
