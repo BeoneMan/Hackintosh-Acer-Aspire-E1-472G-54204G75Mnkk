@@ -1,5 +1,5 @@
-# Hackintosh-Aspire Acer E1-472g
-This is my complete EFI folder to be used for hackintosh on Acer E1-472g notebook with multibooting:
+# Hackintosh Aspire Acer E1-472g
+This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g notebook with multibooting:
 - macOS High Sierra 10.13.6
 - macOS Mojave 10.14.x
 - macOS Catalina 10.15 and
