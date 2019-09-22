@@ -67,5 +67,11 @@ This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g 
 
 --------------------------------------------------------------------------------------------
 
+### Notes
+1. macOS versions used are Retail from Mac App Store, using createinstallmedia for USB Installer
+2. Platform Datas (SN, ROM, UUID) used here are ALL FAKE. So, you need to regenerate them.
+3. Don't use Patched DSDT-SSDT if you have different BIOS version (need to configure config.plist - ACPI section)
+4. To boot with Clover UEFI, you need to configure BIOS
+
 ### Credits
-[Apple](https://www.apple.com) | [Microsoft](https://www.microsoft.com/en-us/windows) | [Clover](https://sourceforge.net/projects/cloverefiboot) | [Acidanthera](https://github.com/acidanthera) | [Rehabman](https://github.com/RehabMan/Laptop-DSDT-Patch) | [InsanelyMac](https://www.insanelymac.com/forum), [Olarila](http://olarila.com/forum) and [OSXLatitude](https://osxlatitude.com/forums) Forum | <b>Other devs</b> who aren't mentioned.
+[Apple](https://www.apple.com) | [Microsoft](https://www.microsoft.com/en-us/windows) | [Clover](https://sourceforge.net/projects/cloverefiboot) | [Acidanthera](https://github.com/acidanthera) | [Rehabman](https://github.com/RehabMan/Laptop-DSDT-Patch) [Andres ZeroCross](https://github.com/andreszerocross) | [Badruzeus](https://github.com/badruzeus) | [InsanelyMac](https://www.insanelymac.com/forum), | [Olarila](http://olarila.com/forum) and [OSXLatitude](https://osxlatitude.com/forums) Forum | <b>Other devs</b> who aren't mentioned.
