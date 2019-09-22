@@ -52,3 +52,6 @@ This is my complete EFI folder to be used for hackintosh on Acer E1-472g noteboo
 # Not Worked / Bugs
 - NVIDIA GT820M (NVIDIA Optimus is not supported by Hackintosh)
 - Etc
+
+### Credits
+[Apple](https://www.apple.com) | [Microsoft](https://www.microsoft.com/en-us/windows) | [Clover](https://sourceforge.net/projects/cloverefiboot) | [Acidanthera](https://github.com/acidanthera) | [Rehabman](https://github.com/RehabMan/Laptop-DSDT-Patch) | [InsanelyMac](https://www.insanelymac.com/forum), [Olarila](http://olarila.com/forum) and [OSXLatitude](https://osxlatitude.com/forums) Forum | <b>Other devs</b> who aren't mentioned.
