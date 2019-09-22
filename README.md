@@ -18,7 +18,7 @@ This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g 
  - CPU: Intel Core i5-4200U (4) @ 2.30GHz (4nd Gen)
  - Chipset: Intel® Express Chipset
  - GPU: Intel HD 4200
- - eGPU : Nvidia GT820M
+ - eGPU : Nvidia GT720M
  - RAM: 12GB DDR3 @ 1600MHz (upgradable to 16GB)
  - Storage SSD : Samsung SSD 840 Evo 120 GB (GUID Partition Table)
  - Storage HDD: 500GB SATA @ 5400rpm (GUID Partition Table)
@@ -62,7 +62,7 @@ This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g 
 --------------------------------------------------------------------------------------------
 
 ### Not Worked / Bugs
-- [ ] NVIDIA GT820M (NVIDIA Optimus is not supported by Hackintosh)
+- [ ] NVIDIA GT720M (NVIDIA Optimus is not supported by Hackintosh)
 - [ ] Etc
 
 --------------------------------------------------------------------------------------------
