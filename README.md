@@ -5,6 +5,11 @@ This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g 
 - macOS Catalina 10.15 and
 - Windows 10 Pro
 
+
+<img src="/img/Catalina.jpg?raw=true" alt="macOS Catalina" align="center">
+
+--------------------------------------------------------------------------------------------
+
 ### Notebook Specs
 <img src="/IMG/E1-472g.png?raw=true" alt="Acer Aspire E1-472G" align="right">
  
@@ -30,11 +35,14 @@ This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g 
  - Battery : 4-Cell @2500 mA 56Wh Lithium-ion Battery
  - BIOS: Ver. 1.06 (Acer).
 
+--------------------------------------------------------------------------------------------
 
 ### EFI Contains
  - Clover Bootloader binary, config.plist, drivers for uefi, themes, etc..
  - Patched ACPI Tables (DSDT-SSDT) for Graphics, Audio, Wifi, Ethernet, Battery, etc..
  - 3rd party kexts for working devices under Mac OS X 10.11.6 upto macOS Mojave 10.15.x
+ 
+ --------------------------------------------------------------------------------------------
  
 ### What Worked
 - [x] QE/CI Graphics Of IGPU IHD 4400
@@ -51,9 +59,13 @@ This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g 
 - [x] All Port USB (USB 3.0 full speed)
 - [x] Bluetooh (Need boot to Windows first and reboot to mac)
 
+--------------------------------------------------------------------------------------------
+
 ### Not Worked / Bugs
 - [ ] NVIDIA GT820M (NVIDIA Optimus is not supported by Hackintosh)
 - [ ] Etc
+
+--------------------------------------------------------------------------------------------
 
 ### Credits
 [Apple](https://www.apple.com) | [Microsoft](https://www.microsoft.com/en-us/windows) | [Clover](https://sourceforge.net/projects/cloverefiboot) | [Acidanthera](https://github.com/acidanthera) | [Rehabman](https://github.com/RehabMan/Laptop-DSDT-Patch) | [InsanelyMac](https://www.insanelymac.com/forum), [Olarila](http://olarila.com/forum) and [OSXLatitude](https://osxlatitude.com/forums) Forum | <b>Other devs</b> who aren't mentioned.
