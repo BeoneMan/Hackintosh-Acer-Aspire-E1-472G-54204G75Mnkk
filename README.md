@@ -1,4 +1,4 @@
-# Hackintosh Aspire Acer E1-472g
+# Hackintosh Aspire E1-472G-54204G75Mnkk
 This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g notebook with multibooting:
 - macOS High Sierra 10.13.6
 - macOS Mojave 10.14.x
@@ -14,7 +14,7 @@ This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g 
 <img src="/IMG/E1-472g.png?raw=true" alt="Acer Aspire E1-472G" align="right">
  
  Aspire Acer E1-472g
- - Model: Acer Aspire E1-472G 2013
+ - Model: Acer Aspire E1-472G-54204G75Mnkk 2013
  - CPU: Intel Core i5-4200U (4) @ 2.30GHz (4nd Gen)
  - Chipset: Intel® Express Chipset
  - GPU: Intel HD Graphics 4200
