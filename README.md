@@ -17,7 +17,7 @@ This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g 
  - Model: Acer Aspire E1-472G 2013
  - CPU: Intel Core i5-4200U (4) @ 2.30GHz (4nd Gen)
  - Chipset: Intel® Express Chipset
- - GPU: Intel HD 4200
+ - GPU: Intel HD Graphics 4200
  - eGPU : Nvidia GT720M
  - RAM: 12GB DDR3 @ 1600MHz (upgradable to 16GB)
  - Storage SSD : Samsung SSD 840 Evo 120 GB (GUID Partition Table)
@@ -32,7 +32,7 @@ This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g 
  - Boot Mode : UEFI
  - Display Output: HDMI and VGA
  - Camera : WebCam
- - Battery : 4-Cell @2500 mA 56Wh Lithium-ion Battery
+ - Battery : 4-Cell @2500 mA Lithium-ion Battery
  - BIOS: Ver. 1.06 (Acer).
 
 --------------------------------------------------------------------------------------------
@@ -40,7 +40,7 @@ This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g 
 ### EFI Contains
  - Clover Bootloader binary, config.plist, drivers for uefi, themes, etc..
  - Patched ACPI Tables (DSDT-SSDT) for Graphics, Audio, Wifi, Ethernet, Battery, etc..
- - 3rd party kexts for working devices under Mac OS X 10.11.6 upto macOS Mojave 10.15.x
+ - 3rd party kexts for working devices on Mac OS X 10.14.6 
  
  --------------------------------------------------------------------------------------------
  
