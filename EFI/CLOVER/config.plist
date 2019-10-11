@@ -315,9 +315,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>ILniAAAADzA=</data>
+				<data>
+				ILniAAAADzA=
+				</data>
 				<key>Replace</key>
-				<data>ILniAAAAkJA=</data>
+				<data>
+				ILniAAAAkJA=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -325,11 +329,15 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>igKEwHRC</data>
+				<data>
+				igKEwHRC
+				</data>
 				<key>MatchOS</key>
 				<string>10.14.1</string>
 				<key>Replace</key>
-				<data>igKEwOtC</data>
+				<data>
+				igKEwOtC
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -337,11 +345,15 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>igKEwHRE</data>
+				<data>
+				igKEwHRE
+				</data>
 				<key>MatchOS</key>
 				<string>10.13.6</string>
 				<key>Replace</key>
-				<data>igKEwOtE</data>
+				<data>
+				igKEwOtE
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -349,11 +361,15 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>igKEwHRH</data>
+				<data>
+				igKEwHRH
+				</data>
 				<key>MatchOS</key>
 				<string>10.14.4</string>
 				<key>Replace</key>
-				<data>igKEwOtH</data>
+				<data>
+				igKEwOtH
+				</data>
 			</dict>
 		</array>
 		<key>KernelXCPM</key>
@@ -366,13 +382,17 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>AEFQUExFIFNTRAA=</data>
+				<data>
+				AEFQUExFIFNTRAA=
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.iokit.IOAHCIBlockStorage</string>
 				<key>Replace</key>
-				<data>AAAAAAAAAAAAAAA=</data>
+				<data>
+				AAAAAAAAAAAAAAA=
+				</data>
 			</dict>
 		</array>
 	</dict>
@@ -383,7 +403,9 @@
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
 		<key>ROM</key>
-		<data>s/uckMb7</data>
+		<data>
+		s/uckMb7
+		</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
@@ -392,13 +414,13 @@
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string></string>
+		<string>MBP112.88Z.0147.B00.1809171519</string>
 		<key>Board-ID</key>
-		<string></string>
+		<string>Mac-3CBD00234E554E41</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string></string>
+		<string>C02444310J9FJQWJA</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -408,15 +430,15 @@
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
-		<string></string>
+		<string>0x0A</string>
 		<key>EfiVersion</key>
-		<string></string>
+		<string>149.0.0.0.0</string>
 		<key>Family</key>
 		<string>MacBook Pro</string>
 		<key>FirmwareFeatures</key>
-		<string></string>
+		<string>0xE80FE137</string>
 		<key>FirmwareFeaturesMask</key>
-		<string></string>
+		<string>0xFF1FFF3F</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>Manufacturer</key>
@@ -424,13 +446,13 @@
 		<key>Mobile</key>
 		<true/>
 		<key>PlatformFeature</key>
-		<string></string>
+		<string>0x02</string>
 		<key>ProductName</key>
 		<string>MacBookPro11,2</string>
 		<key>SerialNumber</key>
-		<string></string>
+		<string>C02NM0YMG9FT</string>
 		<key>SmUUID</key>
-		<string></string>
+		<string>E00A5FF2-9978-4E7A-94D7-AD5F33D995E7</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
