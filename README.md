@@ -40,7 +40,7 @@ This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g 
 ### EFI Contains
  - Clover Bootloader binary, config.plist, drivers for uefi, themes, etc..
  - Patched ACPI Tables (DSDT-SSDT) for Graphics, Audio, Wifi, Ethernet, Battery, etc..
- - 3rd party kexts for working devices on Mac OS X 10.14.6 
+ - 3rd party kexts for working devices on Mac OS X 10.15
  
  --------------------------------------------------------------------------------------------
  
