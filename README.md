@@ -31,7 +31,7 @@ This is my complete EFI folder to be used for hackintosh on Acer Aspire E1-472g 
  - USB port : 2 x USB 2.0 dan 1 x USB 3.0
  - Boot Mode : UEFI
  - Display Output: HDMI and VGA
- - Camera : WebCam
+ - Camera : UVC Camera VendorID_1266 ProductID_46038
  - Battery : 4-Cell @2500 mA Lithium-ion Battery
  - BIOS: Ver. 2.10 (Acer).
 
