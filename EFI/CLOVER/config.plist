@@ -404,7 +404,7 @@
 		<string>0x67</string>
 		<key>ROM</key>
 		<data>
-		s/uckMb7
+		Bdi9ADK3
 		</data>
 	</dict>
 	<key>SMBIOS</key>
@@ -420,7 +420,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02444310J9FJQWJA</string>
+		<string>C02337403QXFJQW1F</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -450,14 +450,16 @@
 		<key>ProductName</key>
 		<string>MacBookPro11,2</string>
 		<key>SerialNumber</key>
-		<string>C02NM0YMG9FT</string>
+		<string>C02LD3YTG86R</string>
 		<key>SmUUID</key>
-		<string>E00A5FF2-9978-4E7A-94D7-AD5F33D995E7</string>
+		<string>6544135F-CCE3-448C-ABC4-88B7C60032B7</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
+		<key>CustomUUID</key>
+		<string>28228E23-B957-5C42-BA28-2A63649255A4</string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 		<key>InjectSystemID</key>
